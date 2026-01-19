@@ -160,4 +160,9 @@ Deployment (Render / Railway)
 Rishabh Pandey
 Backend Developer | Node.js | MongoDB
 
+## Medicine API
 
+Base URL: https://medicine-api-n2rg.onrender.com/api
+
+### Endpoints
+- GET /api → List of medicines
