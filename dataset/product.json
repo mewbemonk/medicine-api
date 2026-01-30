@@ -6,7 +6,7 @@
     "genre": "generic",
     "category": "Pain & Fever",
     "price_inr": 15.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=500&auto=format&fit=crop"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "genre": "generic",
     "category": "Pain & Fever",
     "price_inr": 25.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.unsplash.com/photo-1550572017-ed20bb091391?q=80&w=500&auto=format&fit=crop"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "genre": "generic",
     "category": "Pain & Inflammation",
     "price_inr": 18.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?q=80&w=500&auto=format&fit=crop"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "genre": "generic",
     "category": "Pain & Inflammation",
     "price_inr": 40.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.pexels.com/photos/3683056/pexels-photo-3683056.jpeg?auto=compress&cs=tinysrgb&w=500"
   },
   {
     "id": 5,
@@ -42,52 +42,7 @@
     "genre": "generic",
     "category": "Pain & Inflammation",
     "price_inr": 22.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 6,
-    "medicine_name": "Nimesulide 100mg Tablet",
-    "generic_name": "Nimesulide 100mg",
-    "genre": "generic",
-    "category": "Pain & Fever",
-    "price_inr": 30.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 7,
-    "medicine_name": "Tramadol 50mg Capsule",
-    "generic_name": "Tramadol Hydrochloride 50mg",
-    "genre": "generic",
-    "category": "Severe Pain",
-    "price_inr": 45.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 8,
-    "medicine_name": "Mefenamic Acid 500mg Tablet",
-    "generic_name": "Mefenamic Acid 500mg",
-    "genre": "generic",
-    "category": "Pain & Cramps",
-    "price_inr": 35.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 9,
-    "medicine_name": "Ibuprofen 200mg + Paracetamol 325mg Tablet",
-    "generic_name": "Ibuprofen 200mg + Paracetamol 325mg",
-    "genre": "generic",
-    "category": "Pain & Fever",
-    "price_inr": 28.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 10,
-    "medicine_name": "Aceclofenac 100mg + Paracetamol 325mg Tablet",
-    "generic_name": "Aceclofenac 100mg + Paracetamol 325mg",
-    "genre": "generic",
-    "category": "Pain & Inflammation",
-    "price_inr": 45.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.pexels.com/photos/5910956/pexels-photo-5910956.jpeg?auto=compress&cs=tinysrgb&w=500"
   },
   {
     "id": 11,
@@ -96,16 +51,7 @@
     "genre": "generic",
     "category": "Antibiotic",
     "price_inr": 70.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 12,
-    "medicine_name": "Amoxicillin 500mg + Clavulanic Acid 125mg Tablet",
-    "generic_name": "Amoxicillin 500mg + Clavulanic Acid 125mg",
-    "genre": "generic",
-    "category": "Antibiotic",
-    "price_inr": 190.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.unsplash.com/photo-1471864190281-a93a3072457e?q=80&w=500&auto=format&fit=crop"
   },
   {
     "id": 13,
@@ -114,97 +60,7 @@
     "genre": "generic",
     "category": "Antibiotic",
     "price_inr": 120.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 14,
-    "medicine_name": "Cefixime 200mg Tablet",
-    "generic_name": "Cefixime 200mg",
-    "genre": "generic",
-    "category": "Antibiotic",
-    "price_inr": 140.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 15,
-    "medicine_name": "Cefuroxime 500mg Tablet",
-    "generic_name": "Cefuroxime Axetil 500mg",
-    "genre": "generic",
-    "category": "Antibiotic",
-    "price_inr": 260.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 16,
-    "medicine_name": "Ciprofloxacin 500mg Tablet",
-    "generic_name": "Ciprofloxacin 500mg",
-    "genre": "generic",
-    "category": "Antibiotic",
-    "price_inr": 60.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 17,
-    "medicine_name": "Levofloxacin 500mg Tablet",
-    "generic_name": "Levofloxacin 500mg",
-    "genre": "generic",
-    "category": "Antibiotic",
-    "price_inr": 95.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 18,
-    "medicine_name": "Ofloxacin 200mg Tablet",
-    "generic_name": "Ofloxacin 200mg",
-    "genre": "generic",
-    "category": "Antibiotic",
-    "price_inr": 55.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 19,
-    "medicine_name": "Doxycycline 100mg Capsule",
-    "generic_name": "Doxycycline 100mg",
-    "genre": "generic",
-    "category": "Antibiotic",
-    "price_inr": 45.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 20,
-    "medicine_name": "Metronidazole 400mg Tablet",
-    "generic_name": "Metronidazole 400mg",
-    "genre": "generic",
-    "category": "Antibiotic / Antiprotozoal",
-    "price_inr": 25.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 21,
-    "medicine_name": "Tinidazole 500mg Tablet",
-    "generic_name": "Tinidazole 500mg",
-    "genre": "generic",
-    "category": "Antiprotozoal",
-    "price_inr": 28.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 22,
-    "medicine_name": "Norfloxacin 400mg Tablet",
-    "generic_name": "Norfloxacin 400mg",
-    "genre": "generic",
-    "category": "Antibiotic",
-    "price_inr": 32.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 23,
-    "medicine_name": "Cotrimoxazole DS Tablet",
-    "generic_name": "Trimethoprim + Sulfamethoxazole (DS)",
-    "genre": "generic",
-    "category": "Antibiotic",
-    "price_inr": 30.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.pexels.com/photos/159211/headache-pain-pills-medication-159211.jpeg?auto=compress&cs=tinysrgb&w=500"
   },
   {
     "id": 24,
@@ -213,133 +69,16 @@
     "genre": "generic",
     "category": "Acidity & Gas",
     "price_inr": 75.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 25,
-    "medicine_name": "Omeprazole 20mg Capsule",
-    "generic_name": "Omeprazole 20mg",
-    "genre": "generic",
-    "category": "Acidity & Gas",
-    "price_inr": 40.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 26,
-    "medicine_name": "Rabeprazole 20mg Tablet",
-    "generic_name": "Rabeprazole 20mg",
-    "genre": "generic",
-    "category": "Acidity & Gas",
-    "price_inr": 85.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 27,
-    "medicine_name": "Esomeprazole 40mg Tablet",
-    "generic_name": "Esomeprazole 40mg",
-    "genre": "generic",
-    "category": "Acidity & Gas",
-    "price_inr": 110.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 28,
-    "medicine_name": "Ranitidine 150mg Tablet",
-    "generic_name": "Ranitidine 150mg",
-    "genre": "generic",
-    "category": "Acidity & Ulcer",
-    "price_inr": 20.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 29,
-    "medicine_name": "Famotidine 40mg Tablet",
-    "generic_name": "Famotidine 40mg",
-    "genre": "generic",
-    "category": "Acidity & Ulcer",
-    "price_inr": 25.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 30,
-    "medicine_name": "Domperidone 10mg Tablet",
-    "generic_name": "Domperidone 10mg",
-    "genre": "generic",
-    "category": "Nausea & Vomiting",
-    "price_inr": 30.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 31,
-    "medicine_name": "Pantoprazole 40mg + Domperidone 10mg Tablet",
-    "generic_name": "Pantoprazole 40mg + Domperidone 10mg",
-    "genre": "generic",
-    "category": "Acidity & Nausea",
-    "price_inr": 120.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.pexels.com/photos/4047069/pexels-photo-4047069.jpeg?auto=compress&cs=tinysrgb&w=500"
   },
   {
     "id": 32,
     "medicine_name": "Antacid Gel 170ml",
-    "generic_name": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "generic_name": "Aluminium Hydroxide + Magnesium Hydroxide",
     "genre": "generic",
     "category": "Acidity & Gas",
     "price_inr": 110.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 33,
-    "medicine_name": "Cetirizine 10mg Tablet",
-    "generic_name": "Cetirizine 10mg",
-    "genre": "generic",
-    "category": "Allergy",
-    "price_inr": 12.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 34,
-    "medicine_name": "Levocetirizine 5mg Tablet",
-    "generic_name": "Levocetirizine 5mg",
-    "genre": "generic",
-    "category": "Allergy",
-    "price_inr": 20.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 35,
-    "medicine_name": "Fexofenadine 120mg Tablet",
-    "generic_name": "Fexofenadine 120mg",
-    "genre": "generic",
-    "category": "Allergy",
-    "price_inr": 110.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 36,
-    "medicine_name": "Loratadine 10mg Tablet",
-    "generic_name": "Loratadine 10mg",
-    "genre": "generic",
-    "category": "Allergy",
-    "price_inr": 30.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 37,
-    "medicine_name": "Montelukast 10mg Tablet",
-    "generic_name": "Montelukast 10mg",
-    "genre": "generic",
-    "category": "Allergy & Asthma",
-    "price_inr": 90.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 38,
-    "medicine_name": "Levocetirizine 5mg + Montelukast 10mg Tablet",
-    "generic_name": "Levocetirizine 5mg + Montelukast 10mg",
-    "genre": "generic",
-    "category": "Allergy",
-    "price_inr": 130.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.pexels.com/photos/8413291/pexels-photo-8413291.jpeg?auto=compress&cs=tinysrgb&w=500"
   },
   {
     "id": 39,
@@ -348,376 +87,7 @@
     "genre": "generic",
     "category": "Asthma & COPD",
     "price_inr": 130.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 40,
-    "medicine_name": "Budesonide Inhaler 200mcg",
-    "generic_name": "Budesonide 200mcg/dose",
-    "genre": "generic",
-    "category": "Asthma & COPD",
-    "price_inr": 300.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 41,
-    "medicine_name": "Ipratropium Bromide Inhaler",
-    "generic_name": "Ipratropium Bromide",
-    "genre": "generic",
-    "category": "Asthma & COPD",
-    "price_inr": 280.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 42,
-    "medicine_name": "Salbutamol 2mg Tablet",
-    "generic_name": "Salbutamol 2mg",
-    "genre": "generic",
-    "category": "Asthma & Bronchodilator",
-    "price_inr": 25.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 43,
-    "medicine_name": "Metformin 500mg Tablet",
-    "generic_name": "Metformin Hydrochloride 500mg",
-    "genre": "generic",
-    "category": "Diabetes",
-    "price_inr": 25.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 44,
-    "medicine_name": "Metformin 1000mg Tablet",
-    "generic_name": "Metformin Hydrochloride 1000mg",
-    "genre": "generic",
-    "category": "Diabetes",
-    "price_inr": 40.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 45,
-    "medicine_name": "Glimepiride 1mg Tablet",
-    "generic_name": "Glimepiride 1mg",
-    "genre": "generic",
-    "category": "Diabetes",
-    "price_inr": 30.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 46,
-    "medicine_name": "Glimepiride 2mg Tablet",
-    "generic_name": "Glimepiride 2mg",
-    "genre": "generic",
-    "category": "Diabetes",
-    "price_inr": 45.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 47,
-    "medicine_name": "Gliclazide 80mg Tablet",
-    "generic_name": "Gliclazide 80mg",
-    "genre": "generic",
-    "category": "Diabetes",
-    "price_inr": 50.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 48,
-    "medicine_name": "Vildagliptin 50mg Tablet",
-    "generic_name": "Vildagliptin 50mg",
-    "genre": "generic",
-    "category": "Diabetes",
-    "price_inr": 180.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 49,
-    "medicine_name": "Glibenclamide 5mg Tablet",
-    "generic_name": "Glibenclamide 5mg",
-    "genre": "generic",
-    "category": "Diabetes",
-    "price_inr": 20.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 50,
-    "medicine_name": "Metformin 500mg + Glimepiride 1mg Tablet",
-    "generic_name": "Metformin 500mg + Glimepiride 1mg",
-    "genre": "generic",
-    "category": "Diabetes",
-    "price_inr": 55.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 51,
-    "medicine_name": "Amlodipine 5mg Tablet",
-    "generic_name": "Amlodipine 5mg",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 22.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 52,
-    "medicine_name": "Amlodipine 10mg Tablet",
-    "generic_name": "Amlodipine 10mg",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 35.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 53,
-    "medicine_name": "Telmisartan 40mg Tablet",
-    "generic_name": "Telmisartan 40mg",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 60.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 54,
-    "medicine_name": "Telmisartan 80mg Tablet",
-    "generic_name": "Telmisartan 80mg",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 95.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 55,
-    "medicine_name": "Losartan 50mg Tablet",
-    "generic_name": "Losartan Potassium 50mg",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 40.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 56,
-    "medicine_name": "Atenolol 50mg Tablet",
-    "generic_name": "Atenolol 50mg",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 25.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 57,
-    "medicine_name": "Carvedilol 6.25mg Tablet",
-    "generic_name": "Carvedilol 6.25mg",
-    "genre": "generic",
-    "category": "Heart Failure & Blood Pressure",
-    "price_inr": 55.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 58,
-    "medicine_name": "Bisoprolol 5mg Tablet",
-    "generic_name": "Bisoprolol 5mg",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 65.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 59,
-    "medicine_name": "Enalapril 5mg Tablet",
-    "generic_name": "Enalapril 5mg",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 25.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 60,
-    "medicine_name": "Ramipril 5mg Tablet",
-    "generic_name": "Ramipril 5mg",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 40.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 61,
-    "medicine_name": "Metoprolol Succinate 25mg ER Tablet",
-    "generic_name": "Metoprolol Succinate 25mg (ER)",
-    "genre": "generic",
-    "category": "Blood Pressure",
-    "price_inr": 60.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 62,
-    "medicine_name": "Aspirin 75mg Tablet",
-    "generic_name": "Aspirin 75mg",
-    "genre": "generic",
-    "category": "Antiplatelet",
-    "price_inr": 10.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 63,
-    "medicine_name": "Clopidogrel 75mg Tablet",
-    "generic_name": "Clopidogrel 75mg",
-    "genre": "generic",
-    "category": "Antiplatelet",
-    "price_inr": 90.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 64,
-    "medicine_name": "Atorvastatin 10mg Tablet",
-    "generic_name": "Atorvastatin 10mg",
-    "genre": "generic",
-    "category": "Cholesterol",
-    "price_inr": 65.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 65,
-    "medicine_name": "Atorvastatin 20mg Tablet",
-    "generic_name": "Atorvastatin 20mg",
-    "genre": "generic",
-    "category": "Cholesterol",
-    "price_inr": 95.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 66,
-    "medicine_name": "Rosuvastatin 10mg Tablet",
-    "generic_name": "Rosuvastatin 10mg",
-    "genre": "generic",
-    "category": "Cholesterol",
-    "price_inr": 120.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 67,
-    "medicine_name": "Alprazolam 0.25mg Tablet",
-    "generic_name": "Alprazolam 0.25mg",
-    "genre": "generic",
-    "category": "Anxiety",
-    "price_inr": 20.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 68,
-    "medicine_name": "Clonazepam 0.5mg Tablet",
-    "generic_name": "Clonazepam 0.5mg",
-    "genre": "generic",
-    "category": "Anxiety & Seizures",
-    "price_inr": 45.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 69,
-    "medicine_name": "Escitalopram 10mg Tablet",
-    "generic_name": "Escitalopram 10mg",
-    "genre": "generic",
-    "category": "Depression",
-    "price_inr": 80.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 70,
-    "medicine_name": "Sertraline 50mg Tablet",
-    "generic_name": "Sertraline 50mg",
-    "genre": "generic",
-    "category": "Depression",
-    "price_inr": 95.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 71,
-    "medicine_name": "Amitriptyline 25mg Tablet",
-    "generic_name": "Amitriptyline 25mg",
-    "genre": "generic",
-    "category": "Depression & Neuropathic Pain",
-    "price_inr": 40.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 72,
-    "medicine_name": "Olanzapine 5mg Tablet",
-    "generic_name": "Olanzapine 5mg",
-    "genre": "generic",
-    "category": "Antipsychotic",
-    "price_inr": 55.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 73,
-    "medicine_name": "Risperidone 2mg Tablet",
-    "generic_name": "Risperidone 2mg",
-    "genre": "generic",
-    "category": "Antipsychotic",
-    "price_inr": 45.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 74,
-    "medicine_name": "Vitamin B-Complex Capsule",
-    "generic_name": "Vitamin B1 + B2 + B3 + B5 + B6 + B12",
-    "genre": "generic",
-    "category": "Vitamins",
-    "price_inr": 40.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 75,
-    "medicine_name": "Methylcobalamin 1500mcg Tablet",
-    "generic_name": "Methylcobalamin 1500mcg",
-    "genre": "generic",
-    "category": "Vitamin B12",
-    "price_inr": 110.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 76,
-    "medicine_name": "Vitamin D3 60000 IU Capsule",
-    "generic_name": "Cholecalciferol 60000 IU",
-    "genre": "generic",
-    "category": "Vitamin D",
-    "price_inr": 70.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 77,
-    "medicine_name": "Calcium Carbonate + Vitamin D3 Tablet",
-    "generic_name": "Calcium Carbonate + Vitamin D3",
-    "genre": "generic",
-    "category": "Supplements",
-    "price_inr": 90.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 78,
-    "medicine_name": "Iron + Folic Acid Tablet",
-    "generic_name": "Ferrous Fumarate + Folic Acid",
-    "genre": "generic",
-    "category": "Anaemia",
-    "price_inr": 45.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 79,
-    "medicine_name": "Multivitamin Tablet",
-    "generic_name": "Multivitamin Formulation",
-    "genre": "generic",
-    "category": "Vitamins",
-    "price_inr": 75.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 80,
-    "medicine_name": "Zinc 50mg Tablet",
-    "generic_name": "Zinc 50mg",
-    "genre": "generic",
-    "category": "Supplement",
-    "price_inr": 30.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.unsplash.com/photo-1598048145816-330143684852?q=80&w=500&auto=format&fit=crop"
   },
   {
     "id": 81,
@@ -726,70 +96,16 @@
     "genre": "generic",
     "category": "Antifungal",
     "price_inr": 45.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 82,
-    "medicine_name": "Miconazole 2% Cream",
-    "generic_name": "Miconazole 2% w/w",
-    "genre": "generic",
-    "category": "Antifungal",
-    "price_inr": 50.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 83,
-    "medicine_name": "Betamethasone 0.1% Cream",
-    "generic_name": "Betamethasone Valerate 0.1% w/w",
-    "genre": "generic",
-    "category": "Steroid Cream",
-    "price_inr": 40.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 84,
-    "medicine_name": "Fusidic Acid 2% Cream",
-    "generic_name": "Fusidic Acid 2% w/w",
-    "genre": "generic",
-    "category": "Antibacterial Cream",
-    "price_inr": 95.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 85,
-    "medicine_name": "Permethrin 5% Lotion",
-    "generic_name": "Permethrin 5% w/v",
-    "genre": "generic",
-    "category": "Scabies Treatment",
-    "price_inr": 80.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 86,
-    "medicine_name": "Benzoyl Peroxide 2.5% Gel",
-    "generic_name": "Benzoyl Peroxide 2.5% w/w",
-    "genre": "generic",
-    "category": "Anti-acne",
-    "price_inr": 90.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
-  },
-  {
-    "id": 87,
-    "medicine_name": "Calamine Lotion",
-    "generic_name": "Calamine + Zinc Oxide",
-    "genre": "generic",
-    "category": "Skin Care",
-    "price_inr": 70.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.pexels.com/photos/7262402/pexels-photo-7262402.jpeg?auto=compress&cs=tinysrgb&w=500"
   },
   {
     "id": 88,
-    "medicine_name": "Cough Syrup (Dextromethorphan + Chlorpheniramine)",
-    "generic_name": "Dextromethorphan + Chlorpheniramine + Phenylephrine",
+    "medicine_name": "Cough Syrup",
+    "generic_name": "Dextromethorphan + Chlorpheniramine",
     "genre": "generic",
     "category": "Cough & Cold",
     "price_inr": 110.0,
-    "image_url": "https://thumbs.dreamstime.com/b/bulk-paracetamol-tablets-large-pack-effective-pain-fever-relief-pharmaceuticalgrade-medicine-convenient-offers-354069975.jpg"
+    "image_url": "https://images.unsplash.com/photo-1555633514-abcee6ad93a1?q=80&w=500&auto=format&fit=crop"
   },
   {
     "id": 89,
